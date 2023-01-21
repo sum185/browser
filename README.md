@@ -18,6 +18,7 @@ samples, guidance on mobile development, and a full API reference.
 # Screenshots
 <p float="center">
   
-<img src="https://user-images.githubusercontent.com/115551640/213864961-d2ca9a62-6f79-403e-8bdf-a89116410bf6.png"width=22% height=35%)
+![Screenshot_2023-01-21-16-09-28-45_97dff39e9bc1750a9f32e3bac96f5497 1 _iphone13promaxsilver_portrait](https://user-images.githubusercontent.com/115551640/213865327-20049c5e-ac79-48e9-b6fb-21317e9fbf4d.png)
+
 
 </p>
